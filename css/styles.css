@@ -1,0 +1,70 @@
+.Fondojpg {
+  background-image: url("imagen-assets/Fondo.jpg");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 801px;
+  height: 600px;
+  z-index: 4;
+}
+
+.loadinggif {
+  background-image: url("imagen-assets/loading.gif");
+  opacity: 0.749;
+  position: absolute;
+  left: 636px;
+  top: 534px;
+  width: 27px;
+  height: 27px;
+  z-index: 43;
+}
+.VALDOEFECTSpng {
+  background-image: url("imagen-assets/VALDOEFECTS.png");
+  position: absolute;
+  left: 509px;
+  top: 538px;
+  width: 116px;
+  height: 20px;
+  z-index: 42;
+}
+.Rectángulopng {
+  background-image: url("imagen-assets/Rectángulo.png");
+  opacity: 0.51;
+  position: absolute;
+  left: 473px;
+  top: 509px;
+  width: 235px;
+  height: 78px;
+  z-index: 41;
+}
+.Grupo1png {
+  background-image: url("imagen-assets/Grupo1.png");
+  position: absolute;
+  left: 453px;
+  top: 93px;
+  width: 233px;
+  height: 371px;
+  z-index: 40;
+}
+.Grupo2png {
+  background-image: url("imagen-assets/Grupo2.png");
+  position: absolute;
+  left: 117px;
+  top: 92px;
+  width: 233px;
+  height: 374px;
+  z-index: 37;
+}
+
+.Fondojpg {
+  background-image: url("imagen-assets/Fondo.jpg");
+  position: absolute;
+  top: 0;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  margin: auto;
+  max width: 100%;
+  max height: 100%;
+  z-index: 4;
+}

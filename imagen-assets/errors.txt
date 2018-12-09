@@ -1,0 +1,5 @@
+[2018-12-09 07:30:19] layer "Grupo 1.png copia": Expected end of input but "c" found.
+[2018-12-09 07:30:19] layer "Grupo 2.png copia": Expected end of input but "c" found.
+[2018-12-09 07:30:24] layer "Rectángulo.png copia": Expected end of input but "c" found.
+[2018-12-09 07:30:24] layer "VALDO EFECTS.png copia": Expected end of input but "c" found.
+[2018-12-09 07:30:24] layer "loading.gif copia": Expected end of input but "c" found.
